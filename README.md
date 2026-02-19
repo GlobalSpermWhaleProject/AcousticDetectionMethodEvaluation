@@ -23,3 +23,8 @@ Scripts in this repository generally...
 - Use tidyverse packages for data manipulation
 - Use ggplot2 package for plotting
 - Use %>% for pipes
+
+**Software and Package Version Manangement**
+
+This repository uses the renv package for package version management. 
+To replicate the environment used for this analysis, call renv::restore() to reinstall the specific package versions used (recorded in the renv.lock file).
