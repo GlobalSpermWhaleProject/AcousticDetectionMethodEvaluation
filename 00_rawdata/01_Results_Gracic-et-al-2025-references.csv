@@ -1,0 +1,61 @@
+RefShortHand,Source,OrderInPaper,PrefilterRejectStage,PrefilterRejectDetails,Screening_by-title,Screening_by-abstract,Screening_by-fulltext
+"Marzetti et al., 2021",Table 1,1,NA,NA,Y,Y,Y
+"Gubnitsky and Diamant, 2023",Table 1,2,NA,NA,Y,Y,Y
+"Gubnitky and Diamant, 2024",Table 1,3,Duplicate check,WoS,NA,NA,NA
+"Bot et al., 2015",Table 1,4,Cons,Complex implementation; High computing power demand,NA,NA,NA
+"Baggenstoss and Kurth, 2014",Table 1,5,Cons,High computational load,NA,NA,NA
+"Giorli and Goetz, 2019",Table 1,6,Duplicate check,WoS,NA,NA,NA
+"Kandia and Stylianou, 2008a",Table 1,7,Year,<=2010,NA,NA,NA
+"Lopatka et al., 2005",Table 1,8,Year,<=2010,NA,NA,NA
+"Seger et al., 2018",Table 1,9,NA,NA,Y,Y,Y
+"Tian et al., 2022",Table 1,10,NA,NA,Y,N,
+"Lia et al., 2017",Table 1,11,Cons,Complexity limits real-time use,NA,NA,NA
+"Caruso et al., 2019",Table 1,12,Main idea,non-sperm whale,NA,NA,NA
+"Adam, 2006",Table 1,13,Year,<=2010,NA,NA,NA
+"Soldevilla et al., 2008",Table 1,14,Year,<=2010,NA,NA,NA
+"Roch et al., 2011",Table 1,15,NA,NA,Y,N,
+"Jones et al., 2022",Table 1,16,Main idea,non-sperm whale,NA,NA,NA
+"Baumann-Pickering et al., 2013",Table 1,17,Main idea,non-sperm whale,NA,NA,NA
+"Baggenstoss, 2011",Table 1,18,Cons,High computational demand,NA,NA,NA
+"Caruso et al., 2015",Table 1,19,Duplicate check,WoS,NA,NA,NA
+"Li et al., 2021",Table 1,20,Duplicate check,WoS,NA,NA,NA
+"Klinck and Mellinger, 2011",Table 1,21,NA,NA,Y,N,
+"Kandia and Stylianou, 2006",Table 1,22,Year,<=2010,NA,NA,NA
+"Frouin-Mouy et al., 2017",Table 1,23,Duplicate check,WoS,NA,NA,NA
+"Baumann-Pickering et al., 2010b",Table 1,24,Duplicate check,WoS,NA,NA,NA
+"Kandia and Stylianou, 2008b",Table 1,25,Year,<=2010,NA,NA,NA
+"Luo et al., 2019",Table 2,26,Cons,Requires significant computing resources,NA,NA,NA
+"Buchanan et al., 2021",Table 2,27,Main idea,non-sperm whale,NA,NA,NA
+"Frasier et al., 2022",Table 2,28,NA,NA,N,NA,
+"Islam Ariful, 2021",Table 2,29,NA,NA,Y,Y,N
+"Bermant et al., 2019",Table 2,30,Duplicate check,WoS,NA,NA,NA
+"Sa?nchez-Garc??a et al., 2010",Table 2,31,Year,<=2010,NA,NA,NA
+"Saffari et al., 2022",Table 2,32,NA,NA,Y,Y,N
+"Bergler et al., 2019",Table 2,33,Main idea,non-sperm whale,NA,NA,NA
+"White et al., 2022",Table 2,34,NA,NA,Y,Y,N
+"Jarvis et al., 2022",Table 2,35,Main idea,non-sperm whale,NA,NA,NA
+"Cohen et al., 2022",Table 2,36,Duplicate check,WoS,NA,NA,NA
+"Lü et al., 2024",Table 2,37,Cons,High compute,NA,NA,NA
+"Vishnu et al., 2024",Table 2,38,Main idea,non-sperm whale,NA,NA,NA
+"Cotillard et al., 2024",Table 2,39,Main idea,non-sperm whale,NA,NA,NA
+"Hamard et al., 2024",Table 2,40,Cons,Very computational,NA,NA,NA
+"Frasier, 2021",Table 2,41,Cons,Very compute-heavy,NA,NA,NA
+"Schäfer-Zimmermann et al., 2024",Table 2,42,Cons,"still research-grade, not deployed",NA,NA,NA
+"Harland, 2008",Table 3,43,Year,<=2010,NA,NA,NA
+"Siddagangaiah et al., 2020",Table 3,44,Main idea,non-sperm whale,NA,NA,NA
+"Jang et al., 2023",Table 3,45,NA,NA,Y,N,
+"Caudal and Glotin, 2008",Table 3,46,Cons,Significant computational resources required,NA,NA,NA
+"Altaher et al., 2023",Table 3,47,NA,NA,N,NA,
+"Lopatka et al., 2006",Table 3,48,Year,<=2010,NA,NA,NA
+"Wu et al., 2016",Table 3,49,NA,NA,Y,N,
+"Nosal and Frazer, 2007",Table 3,50,Duplicate check,WoS,NA,NA,NA
+"Skarsoulis et al., 2022",Table 3,51,Duplicate check,WoS,NA,NA,NA
+"Morrissey et al., 2006",Table 3,52,Duplicate check,WoS,NA,NA,NA
+"Gervaise et al., 2010",Table 3,53,Year,<=2010,NA,NA,NA
+"Hamilton et al., 2021",Table 3,54,NA,NA,Y,Y,Y
+"Lohrasbipeydeh et al., 2015",Table 3,55,Duplicate check,WoS,NA,NA,NA
+"Madhusudhana et al., 2015",Table 3,56,NA,NA,Y,Y,Y
+"Jarvis et al., 2014",Table 3,57,Cons,Requires extensive hydrophone network,NA,NA,NA
+"Di Nardo et al., 2023",Table 3,58,Main idea,non-sperm whale,NA,NA,NA
+"Jang et al., 2022",Table 3,59,Cons,computationally heavy,NA,NA,NA
+"Barile et al., 2024",Table 3,60,Duplicate check,WoS,NA,NA,NA
