@@ -1,69 +1,69 @@
-Relevance_Rank_WoS,Article Title,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodType,MethodReference,SelectedForDetailedConsideration,Comments
-1,Acoustic Tracking of Sperm Whales (Physeter macrocephalus) in the Central Mediterranean Sea Using the NEMO-OÎ½DE Deep-Sea Observatory,WOS:001475533500001,WoS,Di Mauro et al. 2025,custom (MATLAB),,,No,Not clear if available
-2,"High Arctic hotspots for sperm whales (Physeter macrocephalus) off western and northern Svalbard, Norway, revealed by multi-year Passive Acoustic Monitoring (PAM)",WOS:001185505600028,WoS,Poeyhoenen et al. 2024,PAMGuard,Click detector,,Yes,
-3,Heard off Heard: Acoustic detections of sperm whales (Physeter macrocephalus) and other cetaceans off Heard Island,WOS:001255059400001,WoS,Miller et al. 2024,PAMGuard,LTSA & Click detector,Miller and Miller 2018,Yes,
-5,Combining passive acoustic data from a towed hydrophone array with visual line transect data to estimate abundance and availability bias of sperm whales (Physeter macrocephalus),WOS:001080095000006,WoS,Sigourney et al. 2023,PAMGuard,Click train detector?,,No,Few details provided
-7,Temporal acoustic occurrence of sperm whales Physeter macrocephalus and long-finned pilot whales Globicephala melas off western Ireland,WOS:000629155900014,WoS,Barile et al. 2021,JASCO,custom energy-detector,Berrow et al. 2018,No,Not clear if available
-10,Spatial and seasonal patterns in acoustic detections of sperm whales Physeter macrocephalus along the continental slope in the western North Atlantic Ocean,WOS:000424223100001,WoS,Stanistreet et al. 2018,Triton (MATLAB),LSTA,Wiggins & Hildebrand 2007,Yes,
-12,Geographic and temporal patterns in the acoustic detection of sperm whales Physeter macrocephalus in the central and western North Pacific Ocean,WOS:000487122600010,WoS,Merkens et al. 2019,,LTSA,Wiggins & Hildebrand 2007,Yes,
-22,Acoustic presence and demographics of sperm whales (Physeter macrocephalus) off southern New England and near a US offshore wind energy area,WOS:001164477200001,WoS,Westell et al. 2025,custom (MATLAB),Click detector,"Solsona-Berga et al. 2020, 2022",No,not primary description
-26,Foraging activity of sperm whales (Physeter macrocephalus) off the east coast of New Zealand,WOS:000481999500036,WoS,Giorli and Goetz 2019,custom (MATLAB),Click detector,,No,Not clear if available
-27,Acoustically estimated size distribution of sperm whales (Physeter macrocephalus) off the east coast of New Zealand,WOS:000496843300001,WoS,Giorli and Goetz 2020,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,not primary description
-47,"Acoustic evidence of year-round sperm whale foraging, population structure, and sex-specific migration near Svalbard",WOS:001568688400001,WoS,Szesciorka et al. 2025,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,not primary description
-49,Accounting for sperm whale population demographics in density estimation using passive acoustic monitoring,WOS:001338506600003,WoS,Solsona-Berga et al. 2024,,,Solsona-Berga et al. 2022,No,not primary description
-50,Comparing neural networks against click train detectors to reveal temporal trends in passive acoustic sperm whale detections,WOS:001381032900001,WoS,Fonollosa et al. 2024,PAMGuard,Click detector,,Yes,
-51,Acoustic occurrence of deep-diving cetaceans in the southern Adriatic Sea,WOS:001362326600001,WoS,Constaratas et al. 2025,Triton (MATLAB),Click detector,,Yes,
-52,Divergences and complementarities between eDNA versus passive acoustic marine mammal monitoring,WOS:001661809200001,WoS,Vieira et al. 2026,custom,Neural Network,Ferrari et al. 2020,No,not primary description
-53,Summer distribution of the Mediterranean sperm whale: insights from the acoustic Accobams survey initiative,WOS:001098227100001,WoS,Lerebourg et al. 2023,PAMGuard,Click detector,,No,Few details provided
-54,"Passive acoustic monitoring of sperm whales and anthropogenic noise using stereophonic recordings in the Mediterranean Sea, North West Pelagos Sanctuary",WOS:000756804500003,WoS,Poupard et al. 2022,Custom workflow,,Best et al. 2020; Kandia and Stylianou 2006,No,Not clear if available
-55,"Acoustic detections of beaked whales, narrow-band high-frequency pulses and other odontocete cetaceans in the Southern Ocean using an autonomous towed hydrophone recorder",WOS:000712904800003,WoS,Barlow et al. 2021,PAMGuard,Click detector,,Yes,Multi-species
-56,Cetacean occurrence offshore of Washington from long-term passive acoustic monitoring,WOS:000691567800012,WoS,Rice et al. 2021a,Triton (MATLAB),LTSA,,Yes,Multi-species
-58,The seasonal occupancy and diel behaviour of Antarctic sperm whales revealed by acoustic monitoring,WOS:000428994100022,WoS,Miller and Miller 2018,PAMGuard,Click detector,,Yes,
-59,Differences in foraging activity of deep sea diving odontocetes in the Ligurian Sea as determined by passive acoustic recorders,WOS:000368750900001,WoS,Giorli et al. 2016a,custom (MATLAB),"""Eco Cluster Machine""",,No,Not clear if available
-60,Field trials of an acoustic decoy to attract sperm whales away from commercial longline fishing vessels in western Gulf of Alaska,WOS:000412250000014,WoS,Wild et al. 2017,not specified,LTSA,,No,Few details provided
-61,Spatial variation of deep diving odontocetes' occurrence around a canyon region in the Ligurian Sea as measured with acoustic techniques,WOS:000385326700008,WoS,Giorli et al. 2016b,custom (MATLAB),"""Eco Cluster Machine""",Giorli et al. 2016a,No,not primary description
-64,"Threatened cetaceans in a potential deep seabed mining region, Clarion Clipperton Zone, Eastern Pacific, August 2023",WOS:001524057700001,WoS,Young et al. 2025,PAMGuard,,Webber et al. 2022,No,Not primary description
-69,"Patterns of Occurrence and Marine Mammal Acoustic Behavior in Relation to Navy Sonar Activity Off Jacksonville, Florida",WOS:000370000900097,WoS,Oswald et al. 2016,Triton (MATLAB),LTSA,,No,Few details provided
-70,Adaptive Energy-Based Acoustic Sperm Whale Echolocation Click Detection,WOS:000363171200019,WoS,Lohrasbipeydeh et al. 2015,adaptive Teager energy operator (ATEO),,,No,Not clear if available
-71,"Click-click, who's there? Acoustically derived estimates of sperm whale size distribution off western Ireland",WOS:001155849400001,WoS,Barile et al. 2024,CABLE,Click detector,Beslin et al. 2018,No,Not primary description
-72,Evidence for seasonal migration by a cryptic top predator of the deep sea,WOS:001320775600001,WoS,Oestreich et al. 2024,Raven,Band limited energy detection,,Yes,
-75,Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics,WOS:000483017100067,WoS,Bermant et al. 2019,,Neural Network,,Yes,
-76,Threatened cetaceans off the coast of Israel and long-range movement of a sperm whale,WOS:001215986900001,WoS,Thompson et al. 2024,PAMGuard,,Webber et al. 2022,No,Not primary description
-81,Identification of western North Atlantic odontocete echolocation click types using machine learning and spatiotemporal correlates,WOS:000780951300028,WoS,Cohen et al. 2022,custom (MATLAB),,,No,Not much sperm whale specific detail given
-82,Sperm whales forage year-round in the ross sea region,WOS:001065864200001,WoS,Giorli and Pinkerton 2023,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,Not primary description
-91,Echolocation repetition rate as a proxy to monitor population structure and dynamics of sperm whales,WOS:000807471500001,WoS,Solsona-Berga et al. 2022,custom (MATLAB),Click detector,Solsona-Berga et al. 2020,Yes,
-92,"Changes in sea ice and range expansion of sperm whales in the eclipse sound region of Baffin Bay, Canada",WOS:000779007600001,WoS,Posdaljian et al. 2022,Triton (MATLAB),LTSA,,Yes,
-93,"Summer and winter surveys of deep waters of the Hellenic Trench, Greece, provide insights into the spatial and temporal distribution of odontocetes",WOS:001190237900001,WoS,Thompson et al. 2023,PAMGuard,Click detector,,Yes,
-94,CONVOLUTIONAL RECURRENT NEURAL NETWORKS FOR THE CLASSIFICATION OF CETACEAN BIOACOUSTIC PATTERNS,WOS:001595432200502,WoS,Makropoulos et al. 2023,,CNN,,No,Not clear if available
-131,Passive acoustic surveys demonstrate high densities of sperm whales off the mid-Atlantic coast of the USA in winter and spring,WOS:001299599800001,WoS,Boisseau et al. 2024,PAMGuard,Click detector,,No,Few details provided
-133,Sperm whale acoustic abundance and dive behaviour in the western North Atlantic,WOS:000865124900084,WoS,Westell et al. 2022,PAMGuard,Click detector,,Yes,
-134,Cetacean acoustic occurrence on the US Atlantic Outer Continental Shelf from 2017 to 2020,WOS:000851452000001,WoS,Kowarski et al. 2023,,,Kowarski et al. 2018,No,Not primary description
-135,Streamlining analysis methods for large acoustic surveys using automatic detectors with operator validation,WOS:000811362600001,WoS,Webber et al. 2022,PAMGuard,Click detector,,Yes,
-136,A Real-Time Acoustic Observatory for Sperm-Whale Localization in the Eastern Mediterranean Sea,WOS:000804064500001,WoS,Skarsoulis et al. 2022,unclear,unclear,,No,No obvious link to detector
-137,Cetacean occurrence in the Gulf of Alaska from long-term passive acoustic monitoring,WOS:000713823900001,WoS,Rice et al. 2021b,Triton (MATLAB),LTSA,,Yes,
-142,Decadal Assessment of Sperm Whale Site-Specific Abundance Trends in the Northern Gulf of Mexico Using Passive Acoustic Data,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,Yes,multi-species detector
-145,"Seasonal Trends in Acoustic Detection of Marine Mammals in Baffin Bay and Melville Bay, Northwest Greenland",WOS:000403713000006,WoS,Frouin-Mouy et al. 2017,JASCO,,,No,Not clear if available
-147,A survey of detection techniques for sperm whale and dolphin echolocation clicks,WOS:001613043100001,WoS,Gracic et al. 2025,,,,Yes,review
-150,Automatic acoustic estimation of sperm whale size distributions achieved through machine recognition of on-axis clicks,WOS:000454625000044,WoS,Beslin et al. 2018,CABLE,,,Yes,
-153,Detecting the Presence of Sperm Whales' Echolocation Clicks in Noisy Environments,WOS:001196506000004,WoS,Gubnitky and Diamant 2024,custom,,,Yes,
-155,Environmental Acoustic Recording System (EARS) in the Gulf of Mexico,WOS:000388838600008,WoS,Ioup et al. 2016,custom,,,No,Not clear if available
-160,Acoustic detection of biosonar activity of deep diving odontocetes at Josephine Seamount High Seas Marine Protected Area,WOS:000354962900007,WoS,Giorli et al. 2015,M3R (Marine Mammal Monitoring on Navy Ranges); custom (MATLAB),spectrogram analysis,"Jarvis et al., 2008; Jarvis, 2012",No,Not clear if available
-162,Sperm whale demographics in the Gulf of Alaska and Bering Sea/Aleutian Islands: An overlooked female habitat,WOS:001267636600006,WoS,Posdaljian et al. 2024,custom (MATLAB),Click detector,Solsona-Berga et al. 2020,No,Not primary description
-174,Habitat suitability modeling in different sperm whale social groups,WOS:000435816100019,WoS,Pace et al. 2018,Rainbow Click,,,No,Rainbow click is legacy software superseded by PAMGuard
-175,"Individuals size estimations of the sperm whales from the Gulf of Taranto (Northern Ionian Sea, Central Mediterranean Sea) employing clicks' InterPulse-Interval (IPI) measurements",WOS:001108819300065,WoS,Azzolin et al. 2023,CABLE,,Beslin et al. 2018,No,Not primary description
-182,Temporal patterns in the soundscape of a Norwegian gateway to the Arctic,WOS:000793383600061,WoS,Aniceto et al. 2022,PAMGuard,Click detector,,No,Few details provided
-189,"Sperm whale long-range echolocation sounds revealed by ANTARES, a deep-sea neutrino telescope",WOS:000399188000001,WoS,Andre et al. 2017,,,,No,Not clear if available
-197,Odontocete occurrence in relation to changes in oceanography at a remote equatorial Pacific seamount,WOS:000385006800001,WoS,Baumann-Pickering et al. 2016,Triton (MATLAB),LTSA,,Yes,
-200,Seasonal movements of Gulf of Mexico sperm whales following the Deepwater Horizon oil spill and the limitations of impact assessments,WOS:000599844400012,WoS,Morano et al. 2020,,,Popescu et al. 2013,No,Not clear if available
-220,Sperm whales in the Great Australian Bight: Synthesising historical and contemporary data to predict potential distribution,WOS:000454184200013,WoS,Mackay et al. 2018,PAMGuard,Click detector,,No,Few details provided
-NA,DetEdit: A graphical user interface for annotating and editing events detected in long-term acoustic monitoring data,NA,Other,Solsona-Berga et al. 2020,DetEdit (MATLAB),LSTA,,Yes,
-NA,DOCC10: open access dataset of marine mammal transient studies and end-to-end CNN classification,NA,Other,Ferrari et al. 2020,custom,neural netowrk model,,No,Not clear if available
-NA,Sperm whale hotspots off western Ireland and the importance of dynamic variables as shown by a multiscale Bayesian Additive Regression Trees workflow,NA,Other,Barile et al. 2026,,,,,Full text not available yet
-NA,Signals from the deep: Spatial and temporal acoustic occurrence of beaked whales off western Ireland,NA,Other,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
-NA,Source Separation of Sperm Whales’ Echolocation Clicks,NA,Other,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
-NA,"Statistical Modeling of Sperm Whale (Physeter Macrocephalus) Acoustic Activity Across Seasonal, Diel, and Demographic Scales in the Northern Gulf of America",NA,Other,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
-NA,,NA,Gracic et al. 2025,"Marzetti et al., 2021",,,,No,Not clear if available
-NA,,NA,Gracic et al. 2026,"Gubnitsky and Diamant, 2023",custom,,,No,Not clear if available
-NA,,NA,Gracic et al. 2027,"Seger et al., 2018",custom,Empirical Mode Decomposition,,No,Not clear if available
-NA,,NA,Gracic et al. 2028,"Hamilton et al., 2021",,,,No,Not clear if available
-NA,,NA,Gracic et al. 2029,"Madhusudhana et al., 2015",custom,,,No,Not clear if available
+Relevance_Rank_WoS,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodType,MethodReference,SelectedForDetailedConsideration,Comments
+1,WOS:001475533500001,WoS,Di Mauro et al. 2025,custom (MATLAB),,,No,Not clear if available
+2,WOS:001185505600028,WoS,Poeyhoenen et al. 2024,PAMGuard,Click detector,,Yes,
+3,WOS:001255059400001,WoS,Miller et al. 2024,PAMGuard,LTSA & Click detector,Miller and Miller 2018,Yes,
+5,WOS:001080095000006,WoS,Sigourney et al. 2023,PAMGuard,Click train detector?,,No,Few details provided
+7,WOS:000629155900014,WoS,Barile et al. 2021,JASCO,custom energy-detector,Berrow et al. 2018,No,Not clear if available
+10,WOS:000424223100001,WoS,Stanistreet et al. 2018,Triton (MATLAB),LSTA,Wiggins & Hildebrand 2007,Yes,
+12,WOS:000487122600010,WoS,Merkens et al. 2019,,LTSA,Wiggins & Hildebrand 2007,Yes,
+22,WOS:001164477200001,WoS,Westell et al. 2025,custom (MATLAB),Click detector,"Solsona-Berga et al. 2020, 2022",No,not primary description
+26,WOS:000481999500036,WoS,Giorli and Goetz 2019,custom (MATLAB),Click detector,,No,Not clear if available
+27,WOS:000496843300001,WoS,Giorli and Goetz 2020,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,not primary description
+47,WOS:001568688400001,WoS,Szesciorka et al. 2025,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,not primary description
+49,WOS:001338506600003,WoS,Solsona-Berga et al. 2024,,,Solsona-Berga et al. 2022,No,not primary description
+50,WOS:001381032900001,WoS,Fonollosa et al. 2024,PAMGuard,Click detector,,Yes,
+51,WOS:001362326600001,WoS,Constaratas et al. 2025,Triton (MATLAB),Click detector,,Yes,
+52,WOS:001661809200001,WoS,Vieira et al. 2026,custom,Neural Network,Ferrari et al. 2020,No,not primary description
+53,WOS:001098227100001,WoS,Lerebourg et al. 2023,PAMGuard,Click detector,,No,Few details provided
+54,WOS:000756804500003,WoS,Poupard et al. 2022,Custom workflow,,Best et al. 2020; Kandia and Stylianou 2006,No,Not clear if available
+55,WOS:000712904800003,WoS,Barlow et al. 2021,PAMGuard,Click detector,,Yes,Multi-species
+56,WOS:000691567800012,WoS,Rice et al. 2021a,Triton (MATLAB),LTSA,,Yes,Multi-species
+58,WOS:000428994100022,WoS,Miller and Miller 2018,PAMGuard,Click detector,,Yes,
+59,WOS:000368750900001,WoS,Giorli et al. 2016a,custom (MATLAB),"""Eco Cluster Machine""",,No,Not clear if available
+60,WOS:000412250000014,WoS,Wild et al. 2017,not specified,LTSA,,No,Few details provided
+61,WOS:000385326700008,WoS,Giorli et al. 2016b,custom (MATLAB),"""Eco Cluster Machine""",Giorli et al. 2016a,No,not primary description
+64,WOS:001524057700001,WoS,Young et al. 2025,PAMGuard,,Webber et al. 2022,No,Not primary description
+69,WOS:000370000900097,WoS,Oswald et al. 2016,Triton (MATLAB),LTSA,,No,Few details provided
+70,WOS:000363171200019,WoS,Lohrasbipeydeh et al. 2015,adaptive Teager energy operator (ATEO),,,No,Not clear if available
+71,WOS:001155849400001,WoS,Barile et al. 2024,CABLE,Click detector,Beslin et al. 2018,No,Not primary description
+72,WOS:001320775600001,WoS,Oestreich et al. 2024,Raven,Band limited energy detection,,Yes,
+75,WOS:000483017100067,WoS,Bermant et al. 2019,,Neural Network,,Yes,
+76,WOS:001215986900001,WoS,Thompson et al. 2024,PAMGuard,,Webber et al. 2022,No,Not primary description
+81,WOS:000780951300028,WoS,Cohen et al. 2022,custom (MATLAB),,,No,Not much sperm whale specific detail given
+82,WOS:001065864200001,WoS,Giorli and Pinkerton 2023,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,Not primary description
+91,WOS:000807471500001,WoS,Solsona-Berga et al. 2022,custom (MATLAB),Click detector,Solsona-Berga et al. 2020,Yes,
+92,WOS:000779007600001,WoS,Posdaljian et al. 2022,Triton (MATLAB),LTSA,,Yes,
+93,WOS:001190237900001,WoS,Thompson et al. 2023,PAMGuard,Click detector,,Yes,
+94,WOS:001595432200502,WoS,Makropoulos et al. 2023,,CNN,,No,Not clear if available
+131,WOS:001299599800001,WoS,Boisseau et al. 2024,PAMGuard,Click detector,,No,Few details provided
+133,WOS:000865124900084,WoS,Westell et al. 2022,PAMGuard,Click detector,,Yes,
+134,WOS:000851452000001,WoS,Kowarski et al. 2023,,,Kowarski et al. 2018,No,Not primary description
+135,WOS:000811362600001,WoS,Webber et al. 2022,PAMGuard,Click detector,,Yes,
+136,WOS:000804064500001,WoS,Skarsoulis et al. 2022,unclear,unclear,,No,No obvious link to detector
+137,WOS:000713823900001,WoS,Rice et al. 2021b,Triton (MATLAB),LTSA,,Yes,
+142,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,Yes,multi-species detector
+145,WOS:000403713000006,WoS,Frouin-Mouy et al. 2017,JASCO,,,No,Not clear if available
+147,WOS:001613043100001,WoS,Gracic et al. 2025,,,,Yes,review
+150,WOS:000454625000044,WoS,Beslin et al. 2018,CABLE,,,Yes,
+153,WOS:001196506000004,WoS,Gubnitky and Diamant 2024,custom,,,Yes,
+155,WOS:000388838600008,WoS,Ioup et al. 2016,custom,,,No,Not clear if available
+160,WOS:000354962900007,WoS,Giorli et al. 2015,M3R (Marine Mammal Monitoring on Navy Ranges); custom (MATLAB),spectrogram analysis,"Jarvis et al., 2008; Jarvis, 2012",No,Not clear if available
+162,WOS:001267636600006,WoS,Posdaljian et al. 2024,custom (MATLAB),Click detector,Solsona-Berga et al. 2020,No,Not primary description
+174,WOS:000435816100019,WoS,Pace et al. 2018,Rainbow Click,,,No,Rainbow click is legacy software superseded by PAMGuard
+175,WOS:001108819300065,WoS,Azzolin et al. 2023,CABLE,,Beslin et al. 2018,No,Not primary description
+182,WOS:000793383600061,WoS,Aniceto et al. 2022,PAMGuard,Click detector,,No,Few details provided
+189,WOS:000399188000001,WoS,Andre et al. 2017,,,,No,Not clear if available
+197,WOS:000385006800001,WoS,Baumann-Pickering et al. 2016,Triton (MATLAB),LTSA,,Yes,
+200,WOS:000599844400012,WoS,Morano et al. 2020,,,Popescu et al. 2013,No,Not clear if available
+220,WOS:000454184200013,WoS,Mackay et al. 2018,PAMGuard,Click detector,,No,Few details provided
+NA,NA,Other,Solsona-Berga et al. 2020,DetEdit (MATLAB),LSTA,,Yes,
+NA,NA,Other,Ferrari et al. 2020,custom,neural netowrk model,,No,Not clear if available
+NA,NA,Other,Barile et al. 2026,,,,,Full text not available yet
+NA,NA,Other,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
+NA,NA,Other,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
+NA,NA,Other,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
+NA,NA,Gracic et al. 2025,"Marzetti et al., 2021",,,,No,Not clear if available
+NA,NA,Gracic et al. 2026,"Gubnitsky and Diamant, 2023",custom,,,No,Not clear if available
+NA,NA,Gracic et al. 2027,"Seger et al., 2018",custom,Empirical Mode Decomposition,,No,Not clear if available
+NA,NA,Gracic et al. 2028,"Hamilton et al., 2021",,,,No,Not clear if available
+NA,NA,Gracic et al. 2029,"Madhusudhana et al., 2015",custom,,,No,Not clear if available

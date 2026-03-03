@@ -1,26 +1,26 @@
-Relevance_Rank_WoS,Article Title,RefShortHand,Sampling rate (kHz),RecordingSchedule,DetectorPlatform,Preprocessing,DetectionMethod,DetectorDetails,ClassifierType,ClassifierDetails,PerformanceDetails,ManualReview,Comments
-2,"High Arctic hotspots for sperm whales (Physeter macrocephalus) off western and northern Svalbard, Norway, revealed by multi-year Passive Acoustic Monitoring (PAM)",Poeyhoenen et al. 2024,32; 48,duty cycle (10/60m),PAMGuard,high pass filter (12th order Butterworth at 1 kHz); low pass filter (12th order Butterworth at 16kHz),Click detector,trigger frequency filter for click detector module: 2 kHz threshold (high pass 6th order Butterworth); Basic Click Detector parameters were kept at default values,PAMGuard & R,PAMGuard classified details in Appendix Table B4 of paper; R script filtering based on click rate in 10 or 30s period,Recall: 64-75%; false positive rate: 0-50% (per 10m file),all recordings labeled with “presence” visually and aurally assessed using Adobe Audition,
-3,Heard off Heard: Acoustic detections of sperm whales (Physeter macrocephalus) and other cetaceans off Heard Island,Miller et al. 2024,12,continuous,PAMGuard,NA,LTSA,1h 0.1-6 kHz window; resolution: 1 m; 11.7 Hz,NA,NA,NA,,"PAMguard click detector also used, but as described in Miller and Miller 2018"
-10,Spatial and seasonal patterns in acoustic detections of sperm whales Physeter macrocephalus along the continental slope in the western North Atlantic Ocean,Stanistreet et al. 2018,200; 250,continuous; duty cycle (5/10m; 2.67/30m),Triton (MATLAB),NA,LSTA,30m to 1h 0-30kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrograms (FFT 1024, 0.5 overlap), 0 to 30 kHz frequency range and listening to sections of interest",
-12,Geographic and temporal patterns in the acoustic detection of sperm whales Physeter macrocephalus in the central and western North Pacific Ocean,Merkens et al. 2019,200,continuous implied,not specified,NA,LTSA,1 h window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
-50,Comparing neural networks against click train detectors to reveal temporal trends in passive acoustic sperm whale detections,Fonollosa et al. 2024,,,PAMGuard,high pass filter (2 kHz),Click detector,,multi-hypothesis tracking (MHT) click train detector vs. CNN-based detector,,,,
-51,Acoustic occurrence of deep-diving cetaceans in the southern Adriatic Sea,Constaratas et al. 2025,,,Triton (MATLAB),,Click detector,,,,,,
-55,"Acoustic detections of beaked whales, narrow-band high-frequency pulses and other odontocete cetaceans in the Southern Ocean using an autonomous towed hydrophone recorder",Barlow et al. 2021,,,PAMGuard,,,,,,,,Multi-species
-56,Cetacean occurrence offshore of Washington from long-term passive acoustic monitoring,Rice et al. 2021a,80; 200,continuous; duty cycle,Triton (MATLAB),NA,LTSA,1 h 0-100kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",Multi-species (Risso's & pacific White-sided dolphins)
-58,The seasonal occupancy and diel behaviour of Antarctic sperm whales revealed by acoustic monitoring,Miller and Miller 2018,,,PAMGuard,,Click detector,,ICI based,,true positive rate: 96%; false positive rate: 1% (hourly),,
-72,Evidence for seasonal migration by a cryptic top predator of the deep sea,Oestreich et al. 2024,,,Raven,,Band limited energy detection,,ICI based,,,,
-75,Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics,Bermant et al. 2019,,,,,Neural Network,,,,,,
-91,Echolocation repetition rate as a proxy to monitor population structure and dynamics of sperm whales,Solsona-Berga et al. 2022,,,custom (MATLAB),,Click detector,,,,,,
-92,"Changes in sea ice and range expansion of sperm whales in the eclipse sound region of Baffin Bay, Canada",Posdaljian et al. 2022,192; 200,continuous; duty cycle (5/60m; 15/20m),Triton (MATLAB),NA,LTSA,1 h 0-40kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
-93,"Summer and winter surveys of deep waters of the Hellenic Trench, Greece, provide insights into the spatial and temporal distribution of odontocetes",Thompson et al. 2023,,,PAMGuard,,Click detector,,,,,,
-133,Sperm whale acoustic abundance and dive behaviour in the western North Atlantic,Westell et al. 2022,,,PAMGuard,,Click detector,,,,,,
-135,Streamlining analysis methods for large acoustic surveys using automatic detectors with operator validation,Webber et al. 2022,,,PAMGuard,,Click detector,,,,,,
-137,Cetacean occurrence in the Gulf of Alaska from long-term passive acoustic monitoring,Rice et al. 2021b,200; 320,continuous; duty cycle (10/12m),Triton (MATLAB),NA,LTSA,unspecified window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",
-142,Decadal Assessment of Sperm Whale Site-Specific Abundance Trends in the Northern Gulf of Mexico Using Passive Acoustic Data,Li et al. 2021,,,custom,,spectral energy detection algorithm,,,,,,multi-species detector
-147,A survey of detection techniques for sperm whale and dolphin echolocation clicks,Gracic et al. 2025,,,,,,,,,,,review
-150,Automatic acoustic estimation of sperm whale size distributions achieved through machine recognition of on-axis clicks,Beslin et al. 2018,,,CABLE,,,,,,,,
-153,Detecting the Presence of Sperm Whales' Echolocation Clicks in Noisy Environments,Gubnitky and Diamant 2024,,,custom,,,,,,,,
-197,Odontocete occurrence in relation to changes in oceanography at a remote equatorial Pacific seamount,Baumann-Pickering et al. 2016,200,continuous implied,Triton (MATLAB),NA,LTSA,"1 h window; resolution: 5 s (500 spectra, 10 ms Hann-windowed frames); 100 Hz",NA,,NA,When echolocation signals were notable in the LTSA the sequence was inspected more closely,
-NA,DetEdit: A graphical user interface for annotating and editing events detected in long-term acoustic monitoring data,Solsona-Berga et al. 2020,,,DetEdit (MATLAB),,LSTA,,,,,,
-NA,Sperm whale hotspots off western Ireland and the importance of dynamic variables as shown by a multiscale Bayesian Additive Regression Trees workflow,Barile et al. 2026,,,,,,,,,,,
-NA,Source Separation of Sperm Whales’ Echolocation Clicks,Gubnitsky et al. 2025,,,custom,,,,,,,,
+RefShortHand,Sampling rate (kHz),RecordingSchedule,DetectorPlatform,Preprocessing,DetectionMethod,DetectorDetails,ClassifierType,ClassifierDetails,PerformanceDetails,ManualReview,Comments
+Poeyhoenen et al. 2024,32; 48,duty cycle (10/60m),PAMGuard,high pass filter (12th order Butterworth at 1 kHz); low pass filter (12th order Butterworth at 16kHz),Click detector,trigger frequency filter for click detector module: 2 kHz threshold (high pass 6th order Butterworth); Basic Click Detector parameters were kept at default values,PAMGuard & R,PAMGuard classified details in Appendix Table B4 of paper; R script filtering based on click rate in 10 or 30s period,Recall: 64-75%; false positive rate: 0-50% (per 10m file),all recordings labeled with “presence” visually and aurally assessed using Adobe Audition,
+Miller et al. 2024,12,continuous,PAMGuard,NA,LTSA,1h 0.1-6 kHz window; resolution: 1 m; 11.7 Hz,NA,NA,NA,,"PAMguard click detector also used, but as described in Miller and Miller 2018"
+Stanistreet et al. 2018,200; 250,continuous; duty cycle (5/10m; 2.67/30m),Triton (MATLAB),NA,LSTA,30m to 1h 0-30kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrograms (FFT 1024, 0.5 overlap), 0 to 30 kHz frequency range and listening to sections of interest",
+Merkens et al. 2019,200,continuous implied,not specified,NA,LTSA,1 h window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
+Fonollosa et al. 2024,,,PAMGuard,high pass filter (2 kHz),Click detector,,multi-hypothesis tracking (MHT) click train detector vs. CNN-based detector,,,,
+Constaratas et al. 2025,,,Triton (MATLAB),,Click detector,,,,,,
+Barlow et al. 2021,,,PAMGuard,,,,,,,,Multi-species
+Rice et al. 2021a,80; 200,continuous; duty cycle,Triton (MATLAB),NA,LTSA,1 h 0-100kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",Multi-species (Risso's & pacific White-sided dolphins)
+Miller and Miller 2018,,,PAMGuard,,Click detector,,ICI based,,true positive rate: 96%; false positive rate: 1% (hourly),,
+Oestreich et al. 2024,,,Raven,,Band limited energy detection,,ICI based,,,,
+Bermant et al. 2019,,,,,Neural Network,,,,,,
+Solsona-Berga et al. 2022,,,custom (MATLAB),,Click detector,,,,,,
+Posdaljian et al. 2022,192; 200,continuous; duty cycle (5/60m; 15/20m),Triton (MATLAB),NA,LTSA,1 h 0-40kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
+Thompson et al. 2023,,,PAMGuard,,Click detector,,,,,,
+Westell et al. 2022,,,PAMGuard,,Click detector,,,,,,
+Webber et al. 2022,,,PAMGuard,,Click detector,,,,,,
+Rice et al. 2021b,200; 320,continuous; duty cycle (10/12m),Triton (MATLAB),NA,LTSA,unspecified window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",
+Li et al. 2021,,,custom,,spectral energy detection algorithm,,,,,,multi-species detector
+Gracic et al. 2025,,,,,,,,,,,review
+Beslin et al. 2018,,,CABLE,,,,,,,,
+Gubnitky and Diamant 2024,,,custom,,,,,,,,
+Baumann-Pickering et al. 2016,200,continuous implied,Triton (MATLAB),NA,LTSA,"1 h window; resolution: 5 s (500 spectra, 10 ms Hann-windowed frames); 100 Hz",NA,,NA,When echolocation signals were notable in the LTSA the sequence was inspected more closely,
+Solsona-Berga et al. 2020,,,DetEdit (MATLAB),,LSTA,,,,,,
+Barile et al. 2026,,,,,,,,,,,
+Gubnitsky et al. 2025,,,custom,,,,,,,,
