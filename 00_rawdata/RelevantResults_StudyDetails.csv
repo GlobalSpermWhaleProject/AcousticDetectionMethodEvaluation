@@ -56,14 +56,14 @@ Relevance_Rank_WoS,Article Title,UT (Unique WOS ID),Source,RefShortHand,MethodPl
 197,Odontocete occurrence in relation to changes in oceanography at a remote equatorial Pacific seamount,WOS:000385006800001,WoS,Baumann-Pickering et al. 2016,Triton (MATLAB),LTSA,,Yes,
 200,Seasonal movements of Gulf of Mexico sperm whales following the Deepwater Horizon oil spill and the limitations of impact assessments,WOS:000599844400012,WoS,Morano et al. 2020,,,Popescu et al. 2013,No,Not clear if available
 220,Sperm whales in the Great Australian Bight: Synthesising historical and contemporary data to predict potential distribution,WOS:000454184200013,WoS,Mackay et al. 2018,PAMGuard,Click detector,,No,Few details provided
-NA,DetEdit: A graphical user interface for annotating and editing events detected in long-term acoustic monitoring data,NA,,Solsona-Berga et al. 2020,DetEdit (MATLAB),LSTA,,Yes,
-NA,DOCC10: open access dataset of marine mammal transient studies and end-to-end CNN classification,NA,,Ferrari et al. 2020,custom,neural netowrk model,,No,Not clear if available
-NA,Sperm whale hotspots off western Ireland and the importance of dynamic variables as shown by a multiscale Bayesian Additive Regression Trees workflow,NA,,Barile et al. 2026,,,,,Full text not available yet
-NA,Signals from the deep: Spatial and temporal acoustic occurrence of beaked whales off western Ireland,NA,,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
-NA,Source Separation of Sperm Whales’ Echolocation Clicks,NA,,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
-NA,"Statistical Modeling of Sperm Whale (Physeter Macrocephalus) Acoustic Activity Across Seasonal, Diel, and Demographic Scales in the Northern Gulf of America",NA,,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
-NA,,NA,,"Marzetti et al., 2021",,,,,
-NA,,NA,,"Gubnitsky and Diamant, 2023",custom,,,No,Not clear if available
-NA,,NA,,"Seger et al., 2018",custom,Empirical Mode Decomposition,,No,Not clear if available
-NA,,NA,,"Hamilton et al., 2021",,,,,
-NA,,NA,,"Madhusudhana et al., 2015",custom,,,No,Not clear if available
+NA,DetEdit: A graphical user interface for annotating and editing events detected in long-term acoustic monitoring data,NA,Other,Solsona-Berga et al. 2020,DetEdit (MATLAB),LSTA,,Yes,
+NA,DOCC10: open access dataset of marine mammal transient studies and end-to-end CNN classification,NA,Other,Ferrari et al. 2020,custom,neural netowrk model,,No,Not clear if available
+NA,Sperm whale hotspots off western Ireland and the importance of dynamic variables as shown by a multiscale Bayesian Additive Regression Trees workflow,NA,Other,Barile et al. 2026,,,,,Full text not available yet
+NA,Signals from the deep: Spatial and temporal acoustic occurrence of beaked whales off western Ireland,NA,Other,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
+NA,Source Separation of Sperm Whales’ Echolocation Clicks,NA,Other,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
+NA,"Statistical Modeling of Sperm Whale (Physeter Macrocephalus) Acoustic Activity Across Seasonal, Diel, and Demographic Scales in the Northern Gulf of America",NA,Other,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
+NA,,NA,Gracic et al. 2025,"Marzetti et al., 2021",,,,No,Not clear if available
+NA,,NA,Gracic et al. 2026,"Gubnitsky and Diamant, 2023",custom,,,No,Not clear if available
+NA,,NA,Gracic et al. 2027,"Seger et al., 2018",custom,Empirical Mode Decomposition,,No,Not clear if available
+NA,,NA,Gracic et al. 2028,"Hamilton et al., 2021",,,,No,Not clear if available
+NA,,NA,Gracic et al. 2029,"Madhusudhana et al., 2015",custom,,,No,Not clear if available
