@@ -17,7 +17,6 @@ Westell et al. 2022,,,PAMGuard,,Click detector,,,,,,
 Webber et al. 2022,,,PAMGuard,,Click detector,,,,,,
 Rice et al. 2021b,200; 320,continuous; duty cycle (10/12m),Triton (MATLAB),NA,LTSA,unspecified window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",
 Li et al. 2021,,,custom,,spectral energy detection algorithm,,,,,,multi-species detector
-Gracic et al. 2025,,,,,,,,,,,review
 Beslin et al. 2018,,,CABLE,,,,,,,,
 Gubnitky and Diamant 2024,,,custom,,,,,,,,
 Baumann-Pickering et al. 2016,200,continuous implied,Triton (MATLAB),NA,LTSA,"1 h window; resolution: 5 s (500 spectra, 10 ms Hann-windowed frames); 100 Hz",NA,,NA,When echolocation signals were notable in the LTSA the sequence was inspected more closely,

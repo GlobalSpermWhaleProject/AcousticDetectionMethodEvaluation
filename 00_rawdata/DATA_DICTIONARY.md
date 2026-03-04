@@ -149,7 +149,7 @@ Combined results of all three '01' files, keeping only results that passed initi
 - MethodPlatform: Software platform used for detection (e.g., PAMGuard, Raven, CABLE)
 - MethodType: Type of detection method (e.g., LTSA, Click detector)
 - MethodReference: Reference for the method if previously published (matching RefShortHand column), or blank if the method is primarily described in the current reference
-- SelectedForDetailedConsideration: Whether selected for detailed extraction (Y or N)
+- SelectedForDetailedConsideration: Whether selected for detailed extraction (Yes or No)
 - Comments: Additional notes (free text), e.g., an explanation of why a method was not selected for detailed consideration
 
 ## 03_ShortList_StudyDetails.csv

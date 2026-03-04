@@ -8,25 +8,25 @@ RefShortHand,Source,OrderInPaper,PrefilterRejectStage,PrefilterRejectDetails,Scr
 "Kandia and Stylianou, 2008a",Table 1,7,Year,<=2010,NA,NA,NA
 "Lopatka et al., 2005",Table 1,8,Year,<=2010,NA,NA,NA
 "Seger et al., 2018",Table 1,9,NA,NA,Y,Y,Y
-"Tian et al., 2022",Table 1,10,NA,NA,Y,N,
+"Tian et al., 2022",Table 1,10,NA,NA,Y,N,NA
 "Lia et al., 2017",Table 1,11,Cons,Complexity limits real-time use,NA,NA,NA
 "Caruso et al., 2019",Table 1,12,Main idea,non-sperm whale,NA,NA,NA
 "Adam, 2006",Table 1,13,Year,<=2010,NA,NA,NA
 "Soldevilla et al., 2008",Table 1,14,Year,<=2010,NA,NA,NA
-"Roch et al., 2011",Table 1,15,NA,NA,Y,N,
+"Roch et al., 2011",Table 1,15,NA,NA,Y,N,NA
 "Jones et al., 2022",Table 1,16,Main idea,non-sperm whale,NA,NA,NA
 "Baumann-Pickering et al., 2013",Table 1,17,Main idea,non-sperm whale,NA,NA,NA
 "Baggenstoss, 2011",Table 1,18,Cons,High computational demand,NA,NA,NA
 "Caruso et al., 2015",Table 1,19,Duplicate check,WoS,NA,NA,NA
 "Li et al., 2021",Table 1,20,Duplicate check,WoS,NA,NA,NA
-"Klinck and Mellinger, 2011",Table 1,21,NA,NA,Y,N,
+"Klinck and Mellinger, 2011",Table 1,21,NA,NA,Y,N,NA
 "Kandia and Stylianou, 2006",Table 1,22,Year,<=2010,NA,NA,NA
 "Frouin-Mouy et al., 2017",Table 1,23,Duplicate check,WoS,NA,NA,NA
 "Baumann-Pickering et al., 2010b",Table 1,24,Duplicate check,WoS,NA,NA,NA
 "Kandia and Stylianou, 2008b",Table 1,25,Year,<=2010,NA,NA,NA
 "Luo et al., 2019",Table 2,26,Cons,Requires significant computing resources,NA,NA,NA
 "Buchanan et al., 2021",Table 2,27,Main idea,non-sperm whale,NA,NA,NA
-"Frasier et al., 2022",Table 2,28,NA,NA,N,NA,
+"Frasier et al., 2022",Table 2,28,NA,NA,N,NA,NA
 "Islam Ariful, 2021",Table 2,29,NA,NA,Y,Y,N
 "Bermant et al., 2019",Table 2,30,Duplicate check,WoS,NA,NA,NA
 "Sa?nchez-Garc??a et al., 2010",Table 2,31,Year,<=2010,NA,NA,NA
@@ -43,11 +43,11 @@ RefShortHand,Source,OrderInPaper,PrefilterRejectStage,PrefilterRejectDetails,Scr
 "Schäfer-Zimmermann et al., 2024",Table 2,42,Cons,"still research-grade, not deployed",NA,NA,NA
 "Harland, 2008",Table 3,43,Year,<=2010,NA,NA,NA
 "Siddagangaiah et al., 2020",Table 3,44,Main idea,non-sperm whale,NA,NA,NA
-"Jang et al., 2023",Table 3,45,NA,NA,Y,N,
+"Jang et al., 2023",Table 3,45,NA,NA,Y,N,NA
 "Caudal and Glotin, 2008",Table 3,46,Cons,Significant computational resources required,NA,NA,NA
-"Altaher et al., 2023",Table 3,47,NA,NA,N,NA,
+"Altaher et al., 2023",Table 3,47,NA,NA,N,NA,NA
 "Lopatka et al., 2006",Table 3,48,Year,<=2010,NA,NA,NA
-"Wu et al., 2016",Table 3,49,NA,NA,Y,N,
+"Wu et al., 2016",Table 3,49,NA,NA,Y,N,NA
 "Nosal and Frazer, 2007",Table 3,50,Duplicate check,WoS,NA,NA,NA
 "Skarsoulis et al., 2022",Table 3,51,Duplicate check,WoS,NA,NA,NA
 "Morrissey et al., 2006",Table 3,52,Duplicate check,WoS,NA,NA,NA
