@@ -1,29 +1,34 @@
-RefShortHand,SamplingRate_kHz,RecordingSchedule,DetectorPlatform,Preprocessing,DetectionMethod,DetectorDetails,ClassifierType,ClassifierDetails,PerformanceDetails,ManualReview,Comments
-Poeyhoenen et al. 2024,32; 48,duty cycle (10/60m),PAMGuard,high pass filter (12th order Butterworth at 1 kHz); low pass filter (12th order Butterworth at 16kHz),Click detector,trigger frequency filter for click detector module: 2 kHz threshold (high pass 6th order Butterworth); Basic Click Detector parameters were kept at default values,PAMGuard & R,PAMGuard classified details in Appendix Table B4 of paper; R script filtering based on click rate in 10 or 30s period,Recall: 64-75%; false positive rate: 0-50% (per 10m file),all recordings labeled with “presence” visually and aurally assessed using Adobe Audition,
-Miller et al. 2024,12,continuous,PAMGuard,NA,LTSA,1h 0.1-6 kHz window; resolution: 1 m; 11.7 Hz,NA,NA,NA,,"PAMguard click detector also used, but as described in Miller and Miller 2018"
-Stanistreet et al. 2018,200; 250,continuous; duty cycle (5/10m; 2.67/30m),Triton (MATLAB),NA,LSTA,30m to 1h 0-30kHz window; resolution: 5 s; 100 Hz,NA,NA,NA,"examine 10 s spectrograms (FFT 1024, 0.5 overlap), 0 to 30 kHz frequency range and listening to sections of interest",
-Merkens et al. 2019,200,continuous implied,not specified,NA,LTSA,1 h window; resolution: 5 s; 100 Hz,NA,NA,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
-Fonollosa et al. 2024,64; 96,duty cycle (4/30m),PAMGuard,high pass filter (2 kHz),Click detector,threshold: 10 dB,PAMGuard multi-hypothesis tracking (MHT) vs. CNN,"Macaulay, 2020: cross correlation of  clicks' normalised average spectrum to a species-specific spectrum template
+RefShortHand,SamplingRate_kHz,RecordingSchedule,DetectorPlatform,Preprocessing,DetectionMethod,DetectorDetails,ClassifierType,ClassifierDetails,PerformanceDetails,ComputationCost,ManualReview,Comments
+Poeyhoenen et al. 2024,32; 48,duty cycle (10/60m),PAMGuard,high pass filter (12th order Butterworth at 1 kHz); low pass filter (12th order Butterworth at 16kHz),Click detector,trigger frequency filter for click detector module: 2 kHz threshold (high pass 6th order Butterworth); Basic Click Detector parameters were kept at default values,PAMGuard & R,PAMGuard classified details in Appendix Table B4 of paper; R script filtering based on click rate in 10 or 30s period,Recall: 64-75%; false positive rate: 0-50% (per 10m file),NA,all recordings labeled with “presence” visually and aurally assessed using Adobe Audition,
+Miller et al. 2024,12,continuous,PAMGuard,NA,LTSA,1h 0.1-6 kHz window; resolution: 1 m; 11.7 Hz,NA,NA,NA,NA,,"PAMguard click detector also used, but as described in Miller and Miller 2018"
+Stanistreet et al. 2018,200; 250,continuous; duty cycle (5/10m; 2.67/30m),Triton (MATLAB),NA,LSTA,30m to 1h 0-30kHz window; resolution: 5 s; 100 Hz,NA,NA,NA,NA,"examine 10 s spectrograms (FFT 1024, 0.5 overlap), 0 to 30 kHz frequency range and listening to sections of interest",
+Merkens et al. 2019,200,continuous implied,not specified,NA,LTSA,1 h window; resolution: 5 s; 100 Hz,NA,NA,NA,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
+Fonollosa et al. 2024,64; 96,duty cycle (4/30m),PAMGuard,high pass filter (2 kHz),Click detector,threshold: 10 dB,PAMGuard multi-hypothesis tracking (MHT) vs. DL (CNN),"DL: Macaulay, 2020
 CNN: uses 5s spectrograms (viewing 1.2-19.1 kHz), implemented in Python, using PyTorch","PAMGuard click detector alone: 0.452 false positive rate
 MHT: accuracy >= 82.6%; FDR <= 0.11 for sites used for training
-DL: accuracy >= 79.4%; FDR <= 0.12 for sites used for training",Trained on manually annotated data,
-Constaratas et al. 2025,,,Triton (MATLAB),,Click detector,,,,,,
-Barlow et al. 2021,,,PAMGuard,,,,,,,,Multi-species
-Rice et al. 2021a,80; 200,continuous; duty cycle,Triton (MATLAB),NA,LTSA,1 h 0-100kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",Multi-species (Risso's & pacific White-sided dolphins)
-Miller and Miller 2018,,,PAMGuard,,Click detector,,ICI based,,true positive rate: 96%; false positive rate: 1% (hourly),,
-Oestreich et al. 2024,,,Raven,,Band limited energy detection,,ICI based,,,,
-Bermant et al. 2019,,,,,Neural Network,,,,,,
-Solsona-Berga et al. 2022,,,custom (MATLAB),,Click detector,,,,,,
-Posdaljian et al. 2022,192; 200,continuous; duty cycle (5/60m; 15/20m),Triton (MATLAB),NA,LTSA,1 h 0-40kHz window; resolution: 5 s; 100 Hz,NA,,NA,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
-Thompson et al. 2023,,,PAMGuard,,Click detector,,,,,,
-Westell et al. 2022,,,PAMGuard,,Click detector,,,,,,
-Webber et al. 2022,,,PAMGuard,,Click detector,,,,,,
-Rice et al. 2021b,200; 320,continuous; duty cycle (10/12m),Triton (MATLAB),NA,LTSA,unspecified window; resolution: 5 s; 100 Hz,NA,,NA,"examine 5 s spectrogram (FFT 1000, 0% overlap)",
-Li et al. 2021,,,custom,,spectral energy detection algorithm,,,,,,multi-species detector
-Beslin et al. 2018,,,CABLE,,,,,,,,
-Gubnitky and Diamant 2024,,,custom,,,,,,,,
-Baumann-Pickering et al. 2016,200,continuous implied,Triton (MATLAB),NA,LTSA,"1 h window; resolution: 5 s (500 spectra, 10 ms Hann-windowed frames); 100 Hz",NA,,NA,When echolocation signals were notable in the LTSA the sequence was inspected more closely,
-Solsona-Berga et al. 2020,,,DetEdit (MATLAB),,LSTA,,,,,,
-Barile et al. 2026,,,,,,,,,,,
-Gubnitsky et al. 2025,,,custom,,,,,,,,
-"Macaulay, 2020",,,PAMGuard,,,,,,,,
+DL: accuracy >= 79.4%; FDR <= 0.12 for sites used for training
+For both, performance drops at new site not included in training data, with high false detection rates (more details in text)","for 3554h recording:
+MHT: 352h 
+DL: 12h (on less powerful computer)","Trained on manually annotated data
+DL: required additional annotations to train the CNN step","DL: Writing and implementing requires a higher level of programming skill, which may be costly, and time consuming for a novice; classification cut-off vlaue manually determined (e.g. to limit FDR) and optimal value varies depending on site noise levels
+MHT: more accessible, within PAMGuard; can make it more attractive to those unable to invest effort into developing their own DL algorithms"
+Constaratas et al. 2025,,,Triton (MATLAB),,Click detector,,,,,,,
+Barlow et al. 2021,,,PAMGuard,,,,,,,,,Multi-species
+Rice et al. 2021a,80; 200,continuous; duty cycle,Triton (MATLAB),NA,LTSA,1 h 0-100kHz window; resolution: 5 s; 100 Hz,NA,,NA,,"examine 5 s spectrogram (FFT 1000, 0% overlap)",Multi-species (Risso's & pacific White-sided dolphins)
+Miller and Miller 2018,,,PAMGuard,,Click detector,,ICI based,,true positive rate: 96%; false positive rate: 1% (hourly),,,
+Oestreich et al. 2024,,,Raven,,Band limited energy detection,,ICI based,,,,,
+Bermant et al. 2019,,,,,Neural Network,,,,,,,did not specify whether other species or noise sources were included in their training or testing data
+Solsona-Berga et al. 2022,,,custom (MATLAB),,Click detector,,,,,,,
+Posdaljian et al. 2022,192; 200,continuous; duty cycle (5/60m; 15/20m),Triton (MATLAB),NA,LTSA,1 h 0-40kHz window; resolution: 5 s; 100 Hz,NA,,NA,,"examine 10 s spectrogram (FFT 2000, 75% overlap, bandwidth 40 kHz)",
+Thompson et al. 2023,,,PAMGuard,,Click detector,,,,,,,
+Westell et al. 2022,,,PAMGuard,,Click detector,,,,,,,
+Webber et al. 2022,,,PAMGuard,,Click detector,,,,,,,
+Rice et al. 2021b,200; 320,continuous; duty cycle (10/12m),Triton (MATLAB),NA,LTSA,unspecified window; resolution: 5 s; 100 Hz,NA,,NA,,"examine 5 s spectrogram (FFT 1000, 0% overlap)",
+Li et al. 2021,,,custom,,spectral energy detection algorithm,,,,,,,multi-species detector
+Beslin et al. 2018,,,CABLE,,,,,,,,,
+Gubnitky and Diamant 2024,,,custom,,,,,,,,,
+Baumann-Pickering et al. 2016,200,continuous implied,Triton (MATLAB),NA,LTSA,"1 h window; resolution: 5 s (500 spectra, 10 ms Hann-windowed frames); 100 Hz",NA,,NA,,When echolocation signals were notable in the LTSA the sequence was inspected more closely,
+Solsona-Berga et al. 2020,,,DetEdit (MATLAB),,LSTA,,,,,,,
+Barile et al. 2026,,,,,,,,,,,,
+Gubnitsky et al. 2025,,,custom,,,,,,,,,
+"Macaulay, 2020",192,continuous implied,PAMGuard,high pass filter (2 kHz),Click detector,threshold: 10 dB,PAMGuard multi-hypothesis tracking (MHT),cross correlation of  clicks' normalised average spectrum to a species-specific spectrum template,,,,
