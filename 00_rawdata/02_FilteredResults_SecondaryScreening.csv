@@ -11,7 +11,7 @@ Relevance_Rank_WoS,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodT
 27,WOS:000496843300001,WoS,Giorli and Goetz 2020,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,Not primary description
 47,WOS:001568688400001,WoS,Szesciorka et al. 2025,custom (MATLAB),Click detector,Giorli and Goetz 2019,No,Not primary description
 49,WOS:001338506600003,WoS,Solsona-Berga et al. 2024,,,Solsona-Berga et al. 2022,No,Not primary description
-50,WOS:001381032900001,WoS,Fonollosa et al. 2024,PAMGuard,Click detector,,Yes,
+50,WOS:001381032900001,WoS,Fonollosa et al. 2024,PAMGuard,Click detector,"Macaulay, 2020",Yes,
 51,WOS:001362326600001,WoS,Constaratas et al. 2025,Triton (MATLAB),Click detector,,Yes,
 52,WOS:001661809200001,WoS,Vieira et al. 2026,custom,Neural Network,Ferrari et al. 2020,No,Not primary description
 53,WOS:001098227100001,WoS,Lerebourg et al. 2023,PAMGuard,Click detector,,No,Few details provided
@@ -62,6 +62,7 @@ NA,NA,Other,Barile et al. 2026,,,,,Full text not available yet
 NA,NA,Other,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
 NA,NA,Other,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
 NA,NA,Other,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
+NA,NA,Other,"Macaulay, 2020",PAMGuard,Click train detector,,Yes,adds to existing PAMGuard functions
 NA,NA,Gracic et al. 2025,"Marzetti et al., 2021",,,,No,Not clear if available
 NA,NA,Gracic et al. 2026,"Gubnitsky and Diamant, 2023",custom,,,No,Not clear if available
 NA,NA,Gracic et al. 2027,"Seger et al., 2018",custom,Empirical Mode Decomposition,,No,Not clear if available
