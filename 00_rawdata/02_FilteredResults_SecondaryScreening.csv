@@ -41,7 +41,7 @@ Relevance_Rank_WoS,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodT
 135,WOS:000811362600001,WoS,Webber et al. 2022,PAMGuard,Click detector,,Yes,
 136,WOS:000804064500001,WoS,Skarsoulis et al. 2022,unclear,unclear,,No,Not clear if available
 137,WOS:000713823900001,WoS,Rice et al. 2021b,Triton (MATLAB),LTSA,,Yes,
-142,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,Yes,multi-species detector
+142,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,No,multi-species detector
 145,WOS:000403713000006,WoS,Frouin-Mouy et al. 2017,JASCO,,,No,Not clear if available
 147,WOS:001613043100001,WoS,Gracic et al. 2025,,,,No,Few details provided; but review useful for other things
 150,WOS:000454625000044,WoS,Beslin et al. 2018,CABLE,,,Yes,
@@ -58,9 +58,8 @@ Relevance_Rank_WoS,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodT
 220,WOS:000454184200013,WoS,Mackay et al. 2018,PAMGuard,Click detector,,No,Few details provided
 NA,NA,Other,Solsona-Berga et al. 2020,DetEdit (MATLAB),LSTA,,Yes,
 NA,NA,Other,Ferrari et al. 2020,custom,neural netowrk model,,No,Not clear if available
-NA,NA,Other,Barile et al. 2026,,,,,Full text not available yet
+NA,NA,Other,Barile et al. 2026,PAMGuard,Click detector,,Yes,
 NA,NA,Other,Kowarski et al. 2018,JASCO,custom energy-detector,,No,Not clear if available
-NA,NA,Other,Gubnitsky et al. 2025,custom,,Gubnitky and Diamant 2024,Yes,Essentially a classifier
 NA,NA,Other,Ciampaglio 2025,custom,spectral energy detection algorithm,Li et al. 2021,No,Not primary description
 NA,NA,Other,"Macaulay, 2020",PAMGuard,Click train detector,,Yes,adds to existing PAMGuard functions
 NA,NA,Gracic et al. 2025,"Marzetti et al., 2021",,,,No,Not clear if available
