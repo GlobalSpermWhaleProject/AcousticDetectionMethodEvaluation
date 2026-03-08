@@ -41,7 +41,7 @@ Relevance_Rank_WoS,UT (Unique WOS ID),Source,RefShortHand,MethodPlatform,MethodT
 135,WOS:000811362600001,WoS,Webber et al. 2022,PAMGuard,Click detector,,Yes,
 136,WOS:000804064500001,WoS,Skarsoulis et al. 2022,unclear,unclear,,No,Not clear if available
 137,WOS:000713823900001,WoS,Rice et al. 2021b,Triton (MATLAB),LTSA,,Yes,
-142,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,No,multi-species detector
+142,WOS:000662383600001,WoS,Li et al. 2021,custom,spectral energy detection algorithm,,No,Not clear if available
 145,WOS:000403713000006,WoS,Frouin-Mouy et al. 2017,JASCO,,,No,Not clear if available
 147,WOS:001613043100001,WoS,Gracic et al. 2025,,,,No,Few details provided; but review useful for other things
 150,WOS:000454625000044,WoS,Beslin et al. 2018,CABLE,,,Yes,

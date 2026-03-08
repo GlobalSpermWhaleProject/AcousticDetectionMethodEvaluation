@@ -57,4 +57,8 @@ stage2 %>% filter(SelectedForDetailedConsideration=="No") %>% count(Comments)
 
 ## Short list ----
 
+stage3 %>% count(DetectorPlatform)
+stage3 %>% count(DetectionMethod)
+stage3 %>% count(DetectorPlatform,DetectionMethod)
 
+stage3 %>% count(DetectionMethod,Preprocessing)
