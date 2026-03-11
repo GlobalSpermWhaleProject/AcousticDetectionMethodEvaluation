@@ -60,5 +60,11 @@ stage2 %>% filter(SelectedForDetailedConsideration=="No") %>% count(Comments)
 stage3 %>% count(DetectorPlatform)
 stage3 %>% count(DetectionMethod)
 stage3 %>% count(DetectorPlatform,DetectionMethod)
+stage3 %>% count(SamplingRate_kHz)
 
 stage3 %>% count(DetectionMethod,Preprocessing)
+
+stage3 %>% filter(DetectorPlatform == "PAMGuard") %>% View()
+
+stage3 %>% filter(grepl("Triton",DetectorPlatform)) %>% View()
+
