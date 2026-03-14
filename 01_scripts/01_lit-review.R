@@ -68,3 +68,4 @@ stage3 %>% filter(DetectorPlatform == "PAMGuard") %>% View()
 
 stage3 %>% filter(grepl("Triton",DetectorPlatform)) %>% View()
 
+stage3 %>% filter(DetectorPlatform=="Raven Pro") %>% View()
