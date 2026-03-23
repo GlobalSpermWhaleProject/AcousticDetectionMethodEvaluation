@@ -6,25 +6,26 @@ CABLE,Click detector,1,NA,Bonavista Bay,20260309T2237,20260310T0035,
 Triton,Decimate,NA,5x,Fundian Channel,20260310T1454,20260310T1521,
 Triton,Decimate,NA,5x,The Gully,20260317T1133,20260317T1200,
 Triton,Decimate,NA,2x,Bonavista Bay,20260312T1727,20260312T1759,
-Triton,Decimate,NA,4x,Flemish Pass,20260313T1811,20260313T1832, 
-Triton,LTSA,1,5s 100Hz resolution,Fundian Channel,20260310T1303,20260310T1418, 
-Triton,LTSA,1,5s 100Hz resolution,Fundian Channel,20260311T0811,20260311T0922,
-Triton,LTSA,5,5s 100Hz resolution,Fundian Channel,20260310T1535,20260310T1634, 
-Triton,LTSA,1,20s 100Hz resolution,Fundian Channel,20260310T1639,20260310T1756, 
+Triton,Decimate,NA,4x,Flemish Pass,20260313T1811,20260313T1832,
+Triton,LTSA,1,5s 100Hz resolution,Fundian Channel,20260310T1303,20260310T1418,62288 KB .ltsa file
+Triton,LTSA,1,5s 100Hz resolution,Fundian Channel,20260311T0811,20260311T0922,62288 KB .ltsa file
+Triton,LTSA,5,5s 100Hz resolution,Fundian Channel,20260310T1535,20260310T1634,12560 KB .ltsa file
+Triton,LTSA,1,20s 100Hz resolution,Fundian Channel,20260310T1639,20260310T1756,16051 KB .ltsa file
 Triton,LTSA,1,5s 100Hz resolution,The Gully,20260311T1610,20260311T1725,
 Triton,LTSA,1,5s 100Hz resolution,Bonavista Bay,20260311T1755,20260311T2047,
 Triton,LTSA,1,5s 100Hz resolution,Flemish Pass,20260311T2210,20260311T2251,requires all batch files to be in one directory (not subdirectories)
-Triton,Click detector,,,,, ,
-Triton,Click detector,,,,,,
-Triton,Click detector,,,,,,
-Triton,Click detector,,,,, ,
-PAMGuard,Click detector,NA,,Fundian Channel,,, 
-PAMGuard,Click detector,NA,,The Gully,,,
-PAMGuard,Click detector,NA,,Bonavista Bay,20260317T1510,,
-PAMGuard,Click detector,NA,,Flemish Pass,, ,
+Triton,Click detector,1,NA,Fundian Channel,NA,NA,"""Problem reading file"" when using non-compiled version; no output using compiled version"
+Triton,Click detector,1,NA,The Gully,NA,NA,"""Problem reading file"" when using non-compiled version; no output using compiled version"
+Triton,Click detector,1,NA,Bonavista Bay,NA,NA,"""Problem reading file"" when using non-compiled version; no output using compiled version"
+Triton,Click detector,1,NA,Flemish Pass,20260320T1100,20260320T1525,plus 1 miunte to generate TPWS file from output
+Triton,Click detector,4,NA,Flemish Pass,20260320T1727,20260320T1833,
+PAMGuard,Click detector,NA,NA,Fundian Channel,20260317T2039,20260317T2241,
+PAMGuard,Click detector,NA,echo detection,Fundian Channel,20260319T1220,20260319T1534,
+PAMGuard,Click detector,NA,NA,The Gully,20260318T0827,20260318T1157,
+PAMGuard,Click detector,NA,NA,Bonavista Bay,20260317T1510,20260317T2029,
+PAMGuard,Click detector,NA,NA,Flemish Pass,20260317T2247,20260318T0147,both channels
 Raven,BLED,1,NA,Fundian Channel,20260312T0840,20260312T1056,
 Raven,BLED,5,NA,Fundian Channel,20260312T1636,20260312T1709,some lagginess
-Raven,BLED,2,NA,Bonavista Bay,20260312T2011,20260312T2133,possible slow click in: 9242.250727225821.d2.wav
+Raven,BLED,2,NA,Bonavista Bay,20260312T2011,20260312T2133,
 Raven,BLED,4,NA,Flemish Pass,20260317T1054,20260317T1112,
 Raven,BLED,5,NA,The Gully,20260317T1229,20260317T1256,
-Guy,Click detector,1,23 SNR; buffer length: 10 s; window for MPS estimation: 40ms; detection threshold U_T 1.4ms,Flemish Pass,, ,
