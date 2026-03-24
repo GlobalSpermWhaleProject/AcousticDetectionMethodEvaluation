@@ -8,7 +8,7 @@
 
 ## Summary
 
-This directory contains raw data files from the systematic literature review evaluating methods for acoustic detection of sperm whales (*Physeter macrocephalus*). The literature search was conducted using Web of Science and supplemented with additional sources including Google Scholar alerts, expert recommendations, and references from a review paper.
+This directory contains raw data files from the systematic literature review evaluating methods for acoustic detection of sperm whales (*Physeter macrocephalus*). The literature search was conducted using Web of Science and supplemented with additional sources including Google Scholar alerts, expert recommendations, and references from a review paper. It also contains software trial batch metadata and processing-time logs used for method evaluation benchmarking.
 
 ## File Descriptions
 
@@ -17,6 +17,8 @@ This directory contains raw data files from the systematic literature review eva
 - 01_Results_Gracic-et-al-2025-references.csv: References extracted from Gracic et al. (2025) review paper, with manual pre-filtering and filtering outcomes.
 - 02_FilteredResults_SecondaryScreening.csv: Combined results of all three '01' files, keeping only results that passed initial filtering. Contains method platform and type classifications, and shortlist assessment outcomes.
 - 03_ShortList_StudyDetails.csv: Final shortlist of studies with detailed methodological information extracted.
+- 04_SoftwareTrial_DataBatches.csv: Metadata for each software trial dataset batch, including date range, duty cycle, effective audio duration, sampling frequency, and channel count.
+- 05_SoftwareTrial_ProcessingTimes.csv: Software trial run log containing software/method settings, dataset processed, start/finish timestamps, and run-specific comments.
 
 ## Data Dictionary
 

@@ -168,3 +168,29 @@ Final shortlist of studies with detailed methodological information extracted.
 - PerformanceDetails: Reported performance metrics (e.g., precision, recall values)
 - ManualReview: Manual review required for method (text description)
 - Comments: Additional notes (free text)
+
+## 04_SoftwareTrial_DataBatches.csv
+
+Dataset-level metadata for the audio batches used in software processing trials.
+
+- Dataset: Dataset name/label (text)
+- StartDate: Start date of the batch coverage period (YYYYMMDD)
+- EndDate: End date of the batch coverage period (YYYYMMDD)
+- Timespan_Days: Calendar duration between start and end dates, in days (numeric)
+- Duty_Cycle: Proportion of time recorded (0-1; numeric)
+- AudioLength_Days: Effective recorded audio duration in days after duty cycle is applied, also accounting for missing data at one site (numeric)
+- SamplingFrequency_kHz: Recording sampling frequency in kilohertz (numeric)
+- Channels: Number of audio channels in recordings (integer)
+
+## 05_SoftwareTrial_ProcessingTimes.csv
+
+Run-level log of software processing trials for each dataset and method configuration.
+
+- Software: Software used for processing (e.g., CABLE, Triton, PAMGuard, Raven)
+- Approach: Processing approach/module (e.g., Click detector, LTSA [Long Term Spectral Average], Decimate, BLED [Band-limited energy detector])
+- DecimateFactor: Decimation factor of input data (numeric or NA if run involves decimation)
+- methodVariant: Additional method variant/setting descriptor (text or NA)
+- Dataset: Dataset name/label matching `04_SoftwareTrial_DataBatches.csv`
+- Start: Processing start timestamp in `YYYYMMDDTHHMM` format, or NA if run did not execute
+- Finish: Processing finish timestamp in `YYYYMMDDTHHMM` format, or NA if run did not execute
+- Comments: Notes on run behaviour, errors, or output details (free text)
