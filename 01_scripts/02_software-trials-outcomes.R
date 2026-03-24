@@ -167,8 +167,8 @@ cor(CABLEprocessing$ClicksFound, CABLEprocessing$ProcessingSpeedFactor)
 
 dataBatches %>% 
   ggplot() + geom_point(aes(AudioLength_Days,SamplingFrequency_kHz, 
-                            col = Dataset, pch = Channels), alpha = 0.7, 
-                        size = 4, stroke = 1.5, position = position_jitter(seed = 2, width = 0, height = 1))+
+                            col = Dataset, pch = Channels), alpha = 0.6, 
+                        size = 4, stroke = 1.5, position = position_jitter(seed = 6, width = 0, height = 3))+
   ylab("Sampling Frequency (kHz)")+xlab("Total Audio Duration (Days)")+
   ylim(100,270)+xlim(0,8)+
   theme_classic()+
