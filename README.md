@@ -6,7 +6,7 @@
 
 **Summary**:
 
-This repository is for evaluation of different methods for acoustic detection of sperm whale presence. This evaluation contributes to a report for Fisheries and Oceans Canada (Feasibility of Methods for Effective Detection and Classification of Sperm Whale Clicks in Large Passive Acoustic Monitoring Datasets) and well as research for the PhD thesis of Christine Clarke.
+This repository is for evaluation of different methods for acoustic detection of sperm whale presence. This evaluation contributes to a report for Fisheries and Oceans Canada (Feasibility of Methods for Effective Detection and Classification of Sperm Whale Clicks in Large Passive Acoustic Monitoring Datasets; see Feasibility-of-Methods_DFO-Report_2026-03-24.pdf) and well as research for the PhD thesis of Christine Clarke.
 
 **File structure**:
 
